@@ -31,8 +31,7 @@ Windows and MacOS users.
 + [Open Shot](https://www.openshot.org/)
 
 ### Paid
-+ [Camtasia](https://www.techsmith.com/video-editor.html) by TechSmith. This
-software is great for screenrecording to make instructional videos.
++ [Camtasia](https://www.techsmith.com/video-editor.html) 
 + [Adobe Premiere](https://www.adobe.com/products/premiere.html)
 + [Final Cut Pro X](https://www.apple.com/final-cut-pro/)
 
