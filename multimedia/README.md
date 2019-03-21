@@ -35,5 +35,13 @@ Windows and MacOS users.
 + [Adobe Premiere](https://www.adobe.com/products/premiere.html)
 + [Final Cut Pro X](https://www.apple.com/final-cut-pro/)
 
+## Advice for creating multimedia
+
++ [TechSmith's blog](https://www.techsmith.com/blog/) for tips across the board
+   + [How to write a script](https://www.techsmith.com/blog/how-to-write-script-for-video/)
+   + [Make a GIF from a video](https://www.techsmith.com/blog/how-to-make-a-gif-from-a-video/)
+   + [Best way to capture screenshots](https://www.techsmith.com/blog/how-to-capture-screen-images/)
++ [How to create screencasts that don't suck](https://shawnhesketh.com/create-screencasts/)
+
 
 
