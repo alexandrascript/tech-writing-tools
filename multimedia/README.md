@@ -8,7 +8,6 @@ Windows and MacOS users.
 
 ### Free
 + [Gimp](https://www.gimp.org/)
-+ [Jing](https://www.techsmith.com/jing-tool.html)
 
 ### Paid
 + [Snagit](https://www.techsmith.com/screen-capture.html)
@@ -35,6 +34,12 @@ Windows and MacOS users.
 + [Adobe Premiere](https://www.adobe.com/products/premiere.html)
 + [Final Cut Pro X](https://www.apple.com/final-cut-pro/)
 
+## Other tools
+
++ Microphones
+   + [Blue Snowball](https://www.bluedesigns.com/products/snowball/)
+   + [Samson Meteor Mic](http://www.samsontech.com/samson/products/microphones/usb-microphones/meteormic/)
+
 ## Advice for creating multimedia
 
 + [TechSmith's blog](https://www.techsmith.com/blog/) for tips across the board
@@ -42,6 +47,4 @@ Windows and MacOS users.
    + [Make a GIF from a video](https://www.techsmith.com/blog/how-to-make-a-gif-from-a-video/)
    + [Best way to capture screenshots](https://www.techsmith.com/blog/how-to-capture-screen-images/)
 + [How to create screencasts that don't suck](https://shawnhesketh.com/create-screencasts/)
-
-
 
