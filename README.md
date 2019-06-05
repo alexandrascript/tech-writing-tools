@@ -8,6 +8,7 @@ You are welcome to make a pull request and add tools that you've found helpful!
 
 + [Learning](/learning/) - articles and books to learn more about technical writing
 + [Multimedia](/multimedia/) - list of tools for creating images, GIFs, and videos
+   + [Planning your content](/multimedia/templates/) - templates for planning your video content
 + [Style](/style/) - examples of content strategy and style guides
 + [Text editors](/text-editors/) - recommended text editors for Markdown and other writing.
 + [Portfolios](/portfolio/) - recommended tools to create your portfolio
