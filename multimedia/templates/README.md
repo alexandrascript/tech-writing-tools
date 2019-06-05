@@ -4,6 +4,10 @@ In this folder you will find templates that will help you decide to create multi
 script templates, and storyboard templates. You'll also find other templates that we won't be using
 in the #ETC_19 workshop, but that may be useful in the future.
 
+## Decision process
+
+Before deciding to make a video, make sure you've gone through the checklist of questions to decide if you should make a video. [Read the questions](https://alexand.us/tw-tools-decide)
+
 ## Scripting and storyboarding
 
 + [Empty storyboard template](https://docs.google.com/document/d/1kw807NbNdMpSrf_-slQ0GMu3h7j6M6eu8ec3hX5nA4g/edit?usp=sharing)
