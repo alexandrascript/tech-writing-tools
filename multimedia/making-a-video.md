@@ -1,4 +1,6 @@
-# Common steps in a video production proceess
+# Video production proceess
+
+## Common steps in any video production process
 
 1. Pre-production
    1. Scriptwriting
@@ -39,4 +41,10 @@ A solid color button down or polo-type shirt. Avoid wearing the following:
 + Plaid, checked, tightly patterned or striped shirts
 + Graphic Tee shirts
 
+## General best practices
 
+### Audio
+
++ Be aware of unwanted noises. If you have an air conditioner running, a fan, or noisy neighbors, this may all be picked up. If you record in a room with a window to a noisy street, this will be picked up.
++ Before your first take, or as the very last take, record a :30 clip of room tone, where everyone is as quiet as they possibly can be. This will give you a great sample of room tone to remove during post.
++ Invest in a [quality microphone](/multimedia#other-tools)
