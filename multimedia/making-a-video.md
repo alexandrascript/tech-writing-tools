@@ -1,5 +1,7 @@
 # Video production proceess
 
+Before deciding to make a video, make sure you've gone through the checklist of questions to decide if you should make a video. [Read the questions](https://alexand.us/tw-tools-decide)
+
 ## Common steps in any video production process
 
 1. Pre-production
