@@ -4,6 +4,7 @@ This document contains a list of suggested free and paid tools for creating
 documentation with multimedia. Whenever possible, I have included tools for
 Windows and MacOS users.
 
+
 ## Images
 
 ### Free
@@ -24,6 +25,11 @@ Windows and MacOS users.
 + [ShareX](https://getsharex.com/)
 
 ## Video
+
+Not sure if you should be making a video? Answer [these questions](/multimedia/making-a-video.md).
+
+Ready to create content? Check out [these templatees](/multimedia/templates) for
+scripts, storyboards, and more.
 
 ### Free
 + [iMovie](https://www.apple.com/imovie/)
