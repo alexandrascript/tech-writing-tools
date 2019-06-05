@@ -11,11 +11,11 @@ Before deciding to make a video, make sure you've gone through the checklist of 
 ## Scripting and storyboarding
 
 + [Empty storyboard template](https://docs.google.com/document/d/1kw807NbNdMpSrf_-slQ0GMu3h7j6M6eu8ec3hX5nA4g/edit?usp=sharing)
-   + [Example script](https://docs.google.com/document/d/12w3bYpdIUhxNfopWDSZh1detgXQaYWsLV_xOV4Bffu4/edit?usp=sharing) explaining the CSS box model'
+   + [Example script](https://alexand.us/tw-tools-script) explaining the CSS box model
    
 ## Editing / Review process
 
-+ [Spreadsheet for comments](https://docs.google.com/spreadsheets/d/1Br_9Q2QFBUW-EDp70ty5yQ2zql8n2Uo-4q71P1I_4gI/edit?usp=sharing) - have your stakholders leave comments here so you can track requests
++ [Spreadsheet for comments](https://dhttps://alexand.us/tw-tools-feedback) - have your stakholders leave comments here so you can track requests
 
 ## Other useful tools
 
