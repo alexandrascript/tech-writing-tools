@@ -1,6 +1,6 @@
 # Tools for Technical Writers
 
-This repository contains lists of suggested tools for technical writers.
+This repository contains lists of suggested tools for technical writers. You can find it at [https://alexand.us/tw-tools](https://alexand.us/tw-tools).
 
 You are welcome to make a pull request and add tools that you've found helpful!
 
