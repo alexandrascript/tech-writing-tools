@@ -13,6 +13,7 @@ You are welcome to make a pull request and add tools that you've found helpful!
 + [Style](/style/) - examples of content strategy and style guides
 + [Text editors](/text-editors/) - recommended text editors for Markdown and other writing.
 + [Portfolios](/portfolio/) - recommended tools to create your portfolio
++ [Templates](/templates/) - example buckets of information to fill in for each type of document
 
 ## About the author
 
