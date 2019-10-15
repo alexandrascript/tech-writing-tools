@@ -14,7 +14,11 @@ What is the most current version, and where do I get it? What previous versions 
 
 ### Prerequisites
 
+What do I need to have installed already to use the API?
+
 ### Install the API
+
+How do I install it, if relevant?
 
 ### Example usecase
 
@@ -40,7 +44,6 @@ Here is where you include a list of all relevant fields for your API, what they 
 | `ITEM_NUM` | Item number. | string |
 | `TITLE` | English language title of the product. | string |
 | `DATE` | Timestamp for this product. | string |
-
 
 ## FAQs
 
