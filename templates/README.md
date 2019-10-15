@@ -5,8 +5,8 @@ Here are a set of generic templates to create various forms of documentation. Th
 
 ### General documentation
 
-- Getting started (coming soon)
-- Overview (coming soon)
+- [Get started](get-started.md)
+- [Overview](overview.md)
 
 ### Developer documentation
 
