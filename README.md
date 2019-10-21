@@ -11,6 +11,7 @@ You are welcome to make a pull request and add tools that you've found helpful!
    + [Planning your content](/multimedia/templates/) - templates for planning your video content
    + [Video production process](/multimedia/making-a-video.md) - common steps in production and best practices
 + [Style](/style/) - examples of content strategy and style guides
+   + [Fewer words](/style/fewer-words.md) - rules for writing with fewer words
 + [Text editors](/text-editors/) - recommended text editors for Markdown and other writing.
 + [Portfolios](/portfolio/) - recommended tools to create your portfolio
 + [Templates](/templates/) - example buckets of information to fill in for each type of document
