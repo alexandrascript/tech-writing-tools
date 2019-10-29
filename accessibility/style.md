@@ -64,7 +64,9 @@ Review this guide for [designing with screenreaders](https://webaim.org/techniqu
    myFunction() {
       var yourCode = goeshere;
    }
+   </code>
    ```
+   - If using Markdown, [refer to the Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)
 
 ## Hearing
 
