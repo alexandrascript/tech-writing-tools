@@ -19,4 +19,5 @@ Here are some helpful articles and websites about the differences between style 
 
 ## Additional tools
 
-Read rules to write with [fewer words](fewer-words.md).
+- Read rules to write with [fewer words](fewer-words.md).
+- [Accessibility style guide](../accessibility/style.md)

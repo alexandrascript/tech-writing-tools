@@ -7,6 +7,7 @@ Here are a set of generic templates to create various forms of documentation. Th
 
 - [Get started](get-started.md)
 - [Overview](overview.md)
+- [Accessibility](../accessibility/style.md)
 
 ### Developer documentation
 
