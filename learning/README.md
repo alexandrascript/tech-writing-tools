@@ -4,7 +4,10 @@ There are several resources for learning about technical writing. Here's a
 collection of articles/books/other materials I've found useful.
 
 ## Articles and blogs
-+ [I'd Rather Be Writing](https://idratherbewriting.com/)
+
++ [I'd Rather Be Writing](https://idratherbewriting.com/) by Tom Johnson
++ [FFeathers](https://ffeathers.wordpress.com/) by Sarah Maddox
++ [Cherryleaf](https://www.cherryleaf.com/)
 
 ## Books
 
