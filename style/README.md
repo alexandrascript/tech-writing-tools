@@ -2,10 +2,15 @@
 
 It is essential to use a style guide and content strategy when you create any technical content. Below are some examples.
 
-+ [Google Marketing Platform visual guidelines](goo.gl/1d8mk5)
 + [MailChimp content style guide](https://styleguide.mailchimp.com/)
++ [Microsoft writing style guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
++ [Atlassian writing style](https://atlassian.design/guidelines/brand/writing-style-1)
 + [GOV.UK content design](https://www.gov.uk/guidance/content-design)
 + [The Economist style guide](https://cdn.static-economist.com/sites/default/files/store/Style_Guide_2015.pdf)
++ Google guides
+   + [Material design writing](https://material.io/design/communication/writing.html?fbclid=IwAR18sxVvU9Yoq87kgnUCz8yJLxjNTH4KFcnur_QvyBFUcSJK5OhcURIfTl4)
+   + [Developer documentation guide](https://developers.google.com/style)
+   + [Google Marketing Platform visual guidelines](goo.gl/1d8mk5)
 
 ## Learning about style and strategy
 
