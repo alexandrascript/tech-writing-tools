@@ -8,7 +8,7 @@ Here are a set of generic templates to create various forms of documentation. Th
 - [Get started](get-started.md)
 - [Overview](overview.md)
 - [Accessibility](../accessibility/style.md)
-- [Contribution guidelines](contributing.md) - special thanks to [@nayafia](https://github.com/nayafia)
+- [Contribution guidelines](contributing.md) - special thanks to [@nayafia](https://github.com/nayafia) and [@embeddedartistry](https://github.com/embeddedartistry)
 
 ### Developer documentation
 
