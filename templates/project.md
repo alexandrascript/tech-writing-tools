@@ -6,7 +6,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/heyawhite/tech-writing-tools?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/heyawhite?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/heyawhite?style=social)
-Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+
+> `<project_name>` is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
 Introduce your project in 2-3 setences. This is just to give a brief overview so folks know if they want to keep reading and use this project.
 
