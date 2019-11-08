@@ -1,5 +1,11 @@
 # Tools for Technical Writers
 
+![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
+![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
+![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
+![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/heyawhite?style=social)
+
 This repository contains lists of suggested tools for technical writers. You can find it at
 [https://alexand.us/tw-tools](https://alexand.us/tw-tools).
 
@@ -33,3 +39,7 @@ You can find more of her work on [heyawhite.com](https://heyawhite.com) or follo
 [@heyawhite](https://twitter.com/heyawhite).
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A244AFZ)
+
+## License
+
+This project uses the [Creative Commons Attribution Share Alike 4.0 International license](LICENSE.md).
