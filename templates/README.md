@@ -4,10 +4,11 @@ Here are a set of generic templates to create various forms of documentation. Th
 
 ### General documentation
 
-- [Project README](project.md)
+- [Project README](project.md) - special thanks to [@scottydocs](https://github.com/scottydocs)
 - [Get started](get-started.md)
 - [Overview](overview.md)
 - [Accessibility](../accessibility/style.md)
+- [Contribution guidelines](contributing.md) - special thanks to [@nayafia](https://github.com/nayafia)
 
 ### Developer documentation
 

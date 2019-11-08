@@ -27,3 +27,11 @@ Make sure you've tested before creating a PR. Broken links and styling issues ca
 ## Your first contribution
 
 Working on your first pull request? Read the [GitHub guide to pull requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
+
+### Review process
+
+Once your PR is submitted, your changes will be reviewed and constructive feedback may be given. Feedback is meant to ensure the highest quality content makes it into this project, and changes will be approved once feedback has been addressed.
+
+## Questions
+
+Have any questions? Open an [issue](https://github.com/heyawhite/tech-writing-tools/issues/new/choose) or tweet me at [@heyawhite](https://twitter.com/heyawhite).
