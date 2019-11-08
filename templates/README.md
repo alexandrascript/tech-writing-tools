@@ -2,9 +2,9 @@
 
 Here are a set of generic templates to create various forms of documentation. These may need heavy modification depending on the complexity of your product.
 
-
 ### General documentation
 
+- [Project README](project.md)
 - [Get started](get-started.md)
 - [Overview](overview.md)
 - [Accessibility](../accessibility/style.md)
