@@ -1,4 +1,4 @@
-# API Reference template
+# API Reference
 
 ## Overview
 

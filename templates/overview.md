@@ -1,8 +1,8 @@
-# <Product Name> Overview
+# <project_name> Overview
 
 The “what” and “why”. Brief 1-3 paragraph description of the product/feature. This should define the product as a whole and use as few buzz words as possible. 
 
-## How does <product> work?
+## How does <project_name> work?
 
 The “how”. Again, this should be brief. The ways to make the “how” happen will happen in more in-depth documentation.
 

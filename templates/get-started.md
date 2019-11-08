@@ -1,4 +1,4 @@
-# Get started with <product>
+# Get started with <project_name>
 
 The “what” and “why”. Brief 1-3 paragraph description of the product. This should define the product as a whole and use as few buzz words as possible. 
 

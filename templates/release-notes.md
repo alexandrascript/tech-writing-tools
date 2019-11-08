@@ -1,4 +1,4 @@
-# What's new for <Product name>
+# What's new for <project_name>
 
 *Note*: If possible, group release notes into larger buckets.
 
@@ -14,5 +14,3 @@ Example structures:
 ## Coming soon
 
 Include any release notes that are coming soon.
-
-

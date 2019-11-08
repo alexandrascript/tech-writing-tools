@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Configuration
 
-Add the following to your `.bash_profile` configuration
+Add the following to your `.bash_profile` configuration:
 
 ```shell
 # Include any keys or other configuration requirements 
