@@ -39,7 +39,7 @@ You can find more of her work on [heyawhite.com](https://heyawhite.com) or follo
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A244AFZ)
 
-Special thanks to [@scottydocs](https://github.com/scottydocs), who inspired updates to the README template.
+Special thanks to [@scottydocs](https://github.com/scottydocs), who heavily influenced the [README template](/templates/project.md).
 
 ## License
 
