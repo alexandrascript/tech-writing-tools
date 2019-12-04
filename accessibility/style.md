@@ -6,8 +6,11 @@ Here are some principles to consider when writing for accessible needs.
 
 Review this guide for [designing with screenreaders](https://webaim.org/techniques/screenreader/) and use the [WAVE testing tool](http://wave.webaim.org/).
 
-- Avoid directional instructions and language.
-   - Readers may not be able to see the layout of a page or the UI.
+- Avoid directional instructions and visual language.
+   - Readers may not be able to see the layout of a page or the UI, and it is unhelpful to people using screenreaders or an unexpected layout (mobile vs. desktop). Instead of "above", "left", "right", etc, use "earlier", "later", or "following".
+   - Avoid referring to UI elements by color, shapes and patterns. Use the element's label whenever possible.
+- Spell out acronyms and symbols.
+   - Avoid unnecessary abbreviations or acronyms. Spell out words like "and", "plus", "minus", and "about" instead of using their respective symbols.
 - Keep it simple.
    - Use shorter words when possible. For example: "more" instead of "additional"; "show" instead of "display"; "buy" instead of "purchase"
    - Refer to [fewer words](../style/fewer-word.md)
@@ -19,6 +22,8 @@ Review this guide for [designing with screenreaders](https://webaim.org/techniqu
    - Use nested and consecutive headings.
 - Help provide context for screenreaders.
    - Don't have empty headings or headings with no associated content.
+- Lead into new page elements.
+   - Create expectations for the user. Page elements include tables, lists, images, videos, searches, commands, and code blocks. Always introduce a new page element using a lead-in sentence that explains what information the element contains or what the user needs to do.
 - Links should be descriptive. 
    - Avoid "click here" and "learn more" when possible. Links should make sense when read out of context.
    - Use an external link icon to indicate that the link opens in a new window or tab. This can be done by adding target="_blank" to your link tag in Redwood.
@@ -68,12 +73,13 @@ Review this guide for [designing with screenreaders](https://webaim.org/techniqu
    ```
    - If using Markdown, [refer to the Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)
 
-## Hearing
+## Audio
 
 ### Video
 
 - All videos should have captions.
    - If using [YouTube's auto-caption tool](https://support.google.com/youtube/answer/6373554?hl=en), edit the caption to include punctuation and correct any language that was misheard.
+   - Include all text and necessary sound effects.
 
 ## Touch
 
