@@ -26,7 +26,7 @@ Review this guide for [designing with screenreaders](https://webaim.org/techniqu
    - Create expectations for the user. Page elements include tables, lists, images, videos, searches, commands, and code blocks. Always introduce a new page element using a lead-in sentence that explains what information the element contains or what the user needs to do.
 - Links should be descriptive. 
    - Avoid "click here" and "learn more" when possible. Links should make sense when read out of context.
-   - Use an external link icon to indicate that the link opens in a new window or tab. This can be done by adding target="_blank" to your link tag in Redwood.
+   - Use an external link icon to indicate that the link opens in a new window or tab. This can be done by adding `target="_blank"` to your link tag.
    - If the link is for a download, the text should indicate that action in addition to the file type and title. For example: "download the PDF of our style guide"
 - Use sensitive language.
    - Instead of “see” or “view”, use “go to” or “open”
