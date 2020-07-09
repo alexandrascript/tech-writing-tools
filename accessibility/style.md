@@ -11,7 +11,7 @@ Review this guide for [designing with screenreaders](https://webaim.org/techniqu
    - Avoid referring to UI elements by color, shapes and patterns. Use the element's label whenever possible.
 - Spell out acronyms and symbols.
    - Avoid unnecessary abbreviations or acronyms. Spell out words like "and", "plus", "minus", and "about" instead of using their respective symbols.
-- Keep it simple.
+- Keep it brief and clear.
    - Use shorter words when possible. For example: "more" instead of "additional"; "show" instead of "display"; "buy" instead of "purchase"
    - Refer to [fewer words](../style/fewer-word.md)
 - Writing should be scannable.
@@ -90,6 +90,8 @@ Review this guide for [designing with screenreaders](https://webaim.org/techniqu
 
 ### Write inclusive documentation
 
+- Avoid "simple" and "simply".
+   - What might be simple for you might not be simple for others.
 - Avoid bias and harm when discussing disability and accessibility.
 - Use diverse and inclusive examples.
    - Use diverse names, genders, ages, and locations in examples. 
@@ -100,7 +102,13 @@ Review this guide for [designing with screenreaders](https://webaim.org/techniqu
    - Use the singular "they" pronoun unless referring to a person who identifies as a specific gender.
 - Avoid disability bias and ableist language.
    - Don't describe people without disabilities as "normal" or "healthy". This contributes to othering and alienation of people with disabilities by implying they are abnormal or sick. Instead, use terms such as: nondisabled person, sighted person, hearing person, person without disabilities, neurotypical person.
-
+- Use race-neutral language. The use of "whitelist" and "blacklist" legitimizes and perpetuates racism. 
+   - Instead of "blacklisted," use "blocked" or "blocklist" (in reference to adding an item to a list).
+   - Instead of "whitelisted," use "allowed" or "allowlist" (in reference to adding an item to a list).
+   - Avoid "native" when possible. Use a more precise term. For example, use "built-in" to describe a feature that's part of a product.
+   - Do not use "master"/"slave". Instead, use alternative terms appropriate to your domain. For example, "primary"/"secondary" or "parent"/"child"
+   
+   
 ### Write for international audiences
 
 - Use the subject-verb-object sentence structure.
