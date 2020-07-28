@@ -120,7 +120,7 @@ Review this guide for [designing with screenreaders](https://webaim.org/techniqu
    - Avoid portmanteaus.
    - Be positive.
 - Avoid jargon.
-   - Write simply. Separate ideas into different sentences/paragraphs/sections, as necessary.
+   - Sparate ideas into different sentences/paragraphs/sections, as necessary.
    - Avoid slang and metaphors.
    - Use adjectives sparingly.
 - Avoid colloquialisms.
