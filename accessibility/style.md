@@ -50,6 +50,7 @@ Review this guide for [designing with screenreaders](https://webaim.org/techniqu
    - Black text on a white background is standard for a reason.
 - Use an [accessible color palette](http://colorsafe.co/).
    - Be mindful not to pair colors which are commonly problematic for those who are colorblind (i.e. red and green or purple and yellow).
+   - [Talk to people, rather than relying on WCAG requirements](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/). Remember, just because a test says it's not accessible, doesn't always mean it's true.
 
 ### Video
 
