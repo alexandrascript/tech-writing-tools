@@ -13,7 +13,7 @@ Review this guide for [designing with screenreaders](https://webaim.org/techniqu
    - Avoid unnecessary abbreviations or acronyms. Spell out words like "and", "plus", "minus", and "about" instead of using their respective symbols.
 - Keep it brief and clear.
    - Use shorter words when possible. For example: "more" instead of "additional"; "show" instead of "display"; "buy" instead of "purchase"
-   - Refer to [fewer words](../style/fewer-word.md)
+   - Refer to [fewer words](../style/fewer-words.md)
 - Writing should be scannable.
    - Avoid long paragraphs.
 - Key information should go first. Front-load with desired actions.
