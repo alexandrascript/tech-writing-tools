@@ -1,6 +1,6 @@
 # Accessibility style guide
 
-Here are some principles to consider when writing for accessible needs.
+Here are some principles to consider when writing for accessible needs. This document is a work-in-progress (WIP) and suggestions/PRs are welcomed.
 
 ## Visuals
 
@@ -61,8 +61,8 @@ Review this guide for [designing with screenreaders](https://webaim.org/techniqu
 
 - Always use code tags. 
    - HTML: `<code></code>`
-   - Do not use images for code snippets.
-   - If the snippet is short or just the name of a function, it can be included inline. For example: `<code>myObject()</code>`.
+   - Always write the text&mdash;do not use images for code snippets.
+   - If the code is short or just the name of a function, it can be included inline. For example: `<code>myObject()</code>`.
    - If the code sample is longer, it should be in a separate container. The HTML should look like this:
    ```
    <code>
@@ -109,7 +109,6 @@ Review this guide for [designing with screenreaders](https://webaim.org/techniqu
    - Avoid "native" when possible. Use a more precise term. For example, use "built-in" to describe a feature that's part of a product.
    - Do not use "master"/"slave". Instead, use alternative terms appropriate to your domain. For example, "primary"/"secondary" or "parent"/"child"
    
-   
 ### Write for international audiences
 
 - Use the subject-verb-object sentence structure.
@@ -127,5 +126,8 @@ Review this guide for [designing with screenreaders](https://webaim.org/techniqu
 - Avoid colloquialisms.
    - Phrases like "ballpark figure," "back burner," or "hang in there" can be confusing.
 
+## Additional best practices
 
+- Write [semantic HTML](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML) and make sure your website is built semantically.
+- When in doubt, refer to [W3C's Web Accessibility Initiative](https://www.w3.org/WAI/).
 
