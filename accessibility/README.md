@@ -1,12 +1,12 @@
 # Accessibility
 
-It is essential that the content we create is accessible and usable for the widest possible audience.
-This includes users of all mental and physical capabilities.  We must always consider accessibility
-standards when editing and creating content, from the words we choose to the way our content is
-organized.
+The content we create must be accessible and usable for the widest possible audience. This
+includes users of all mental and physical capabilities. We must always consider standards for
+accessibility and inclusion when editing and creating content, from the words we choose to
+the way our content is organized.
 
-I've written an [accessibility style guide](style.md) which outlines some principles to follow
-when writing with accessibility in mind.
+I've written an [accessibility style guide](style.md) which outlines some best practcies.
+Feel free to copy this document in whole and add it to your company style guide.
 
 ## Resources
 
@@ -26,3 +26,12 @@ communication, others more loosely connected about web development and design.
 - [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) by bits ofcode
 - [GSA Government IT Accessibility program](https://www.section508.gov/about-us) (i.e. Section 508)
 - [Microsoft inclusive design toolkit](https://www.microsoft.com/design/inclusive/)
+- [Smashing Magazine's guide to designing accessibly](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/)
+
+## Events
+
+### Conferences
+
+- [ASSETS](https://assets19.sigaccess.org/)
+- [#a11yTO Conf](https://conf.a11yto.com/)
+- [Guelph Accessibility Conference](https://opened.uoguelph.ca/accessibility-conference)
