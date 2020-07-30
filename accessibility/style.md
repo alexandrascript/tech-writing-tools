@@ -1,6 +1,8 @@
 # Accessibility style guide
 
-Here are some principles to consider when writing for accessible needs. This document is a work-in-progress (WIP) and suggestions/PRs are welcomed.
+Here are some principles to consider when writing for accessible needs. This
+document is a work-in-progress (WIP) and suggestions are welcomed. Feel free to
+[open a pull request](https://github.com/heyawhite/tech-writing-tools/pulls).
 
 ## Visuals
 
