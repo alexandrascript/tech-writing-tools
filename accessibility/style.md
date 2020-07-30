@@ -1,6 +1,6 @@
 # Accessibility style guide
 
-Here are some principles to consider when writing for accessible needs.
+Here are some principles to consider when writing for accessible needs. This document is a work-in-progress (WIP) and suggestions/PRs are welcomed.
 
 ## Visuals
 
@@ -11,9 +11,9 @@ Review this guide for [designing with screenreaders](https://webaim.org/techniqu
    - Avoid referring to UI elements by color, shapes and patterns. Use the element's label whenever possible.
 - Spell out acronyms and symbols.
    - Avoid unnecessary abbreviations or acronyms. Spell out words like "and", "plus", "minus", and "about" instead of using their respective symbols.
-- Keep it simple.
+- Keep it brief and clear.
    - Use shorter words when possible. For example: "more" instead of "additional"; "show" instead of "display"; "buy" instead of "purchase"
-   - Refer to [fewer words](../style/fewer-word.md)
+   - Refer to [fewer words](../style/fewer-words.md)
 - Writing should be scannable.
    - Avoid long paragraphs.
 - Key information should go first. Front-load with desired actions.
@@ -26,7 +26,7 @@ Review this guide for [designing with screenreaders](https://webaim.org/techniqu
    - Create expectations for the user. Page elements include tables, lists, images, videos, searches, commands, and code blocks. Always introduce a new page element using a lead-in sentence that explains what information the element contains or what the user needs to do.
 - Links should be descriptive. 
    - Avoid "click here" and "learn more" when possible. Links should make sense when read out of context.
-   - Use an external link icon to indicate that the link opens in a new window or tab. This can be done by adding target="_blank" to your link tag in Redwood.
+   - Use an external link icon to indicate that the link opens in a new window or tab. This can be done by adding `target="_blank"` to your link tag.
    - If the link is for a download, the text should indicate that action in addition to the file type and title. For example: "download the PDF of our style guide"
 - Use sensitive language.
    - Instead of “see” or “view”, use “go to” or “open”
@@ -50,6 +50,7 @@ Review this guide for [designing with screenreaders](https://webaim.org/techniqu
    - Black text on a white background is standard for a reason.
 - Use an [accessible color palette](http://colorsafe.co/).
    - Be mindful not to pair colors which are commonly problematic for those who are colorblind (i.e. red and green or purple and yellow).
+   - [Talk to people, rather than relying on WCAG requirements](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/). Remember, just because a test says it's not accessible, doesn't always mean it's true.
 
 ### Video
 
@@ -60,8 +61,8 @@ Review this guide for [designing with screenreaders](https://webaim.org/techniqu
 
 - Always use code tags. 
    - HTML: `<code></code>`
-   - Do not use images for code snippets.
-   - If the snippet is short or just the name of a function, it can be included inline. For example: `<code>myObject()</code>`.
+   - Always write the text&mdash;do not use images for code snippets.
+   - If the code is short or just the name of a function, it can be included inline. For example: `<code>myObject()</code>`.
    - If the code sample is longer, it should be in a separate container. The HTML should look like this:
    ```
    <code>
@@ -90,6 +91,8 @@ Review this guide for [designing with screenreaders](https://webaim.org/techniqu
 
 ### Write inclusive documentation
 
+- Avoid "simple" and "simply".
+   - What might be simple for you might not be simple for others.
 - Avoid bias and harm when discussing disability and accessibility.
 - Use diverse and inclusive examples.
    - Use diverse names, genders, ages, and locations in examples. 
@@ -100,7 +103,12 @@ Review this guide for [designing with screenreaders](https://webaim.org/techniqu
    - Use the singular "they" pronoun unless referring to a person who identifies as a specific gender.
 - Avoid disability bias and ableist language.
    - Don't describe people without disabilities as "normal" or "healthy". This contributes to othering and alienation of people with disabilities by implying they are abnormal or sick. Instead, use terms such as: nondisabled person, sighted person, hearing person, person without disabilities, neurotypical person.
-
+- Use race-neutral language. The use of "whitelist" and "blacklist" legitimizes and perpetuates racism. 
+   - Instead of "blacklisted," use "blocked" or "blocklist" (in reference to adding an item to a list).
+   - Instead of "whitelisted," use "allowed" or "allowlist" (in reference to adding an item to a list).
+   - Avoid "native" when possible. Use a more precise term. For example, use "built-in" to describe a feature that's part of a product.
+   - Do not use "master"/"slave". Instead, use alternative terms appropriate to your domain. For example, "primary"/"secondary" or "parent"/"child"
+   
 ### Write for international audiences
 
 - Use the subject-verb-object sentence structure.
@@ -112,11 +120,14 @@ Review this guide for [designing with screenreaders](https://webaim.org/techniqu
    - Avoid portmanteaus.
    - Be positive.
 - Avoid jargon.
-   - Write simply. Separate ideas into different sentences/paragraphs/sections, as necessary.
+   - Sparate ideas into different sentences/paragraphs/sections, as necessary.
    - Avoid slang and metaphors.
    - Use adjectives sparingly.
 - Avoid colloquialisms.
    - Phrases like "ballpark figure," "back burner," or "hang in there" can be confusing.
 
+## Additional best practices
 
+- Write [semantic HTML](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML) and make sure your website is built semantically.
+- When in doubt, refer to [W3C's Web Accessibility Initiative](https://www.w3.org/WAI/).
 
