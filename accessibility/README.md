@@ -8,6 +8,8 @@ the way our content is organized.
 I've written an [accessibility style guide](style.md) which outlines some best practcies.
 Feel free to copy this document in whole and add it to your company style guide.
 
+I've also included [accessibility in my speaking policy](https://heyawhite.com/speaking/#a11y).
+
 ## Resources
 
 Here are a list of resources on the topic of accessibility. Some are directly related to writing and
