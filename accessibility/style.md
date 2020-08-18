@@ -9,17 +9,30 @@ document is a work-in-progress (WIP) and suggestions are welcomed. Feel free to
 Review this guide for [designing with screenreaders](https://webaim.org/techniques/screenreader/)
 and use the [WAVE testing tool](http://wave.webaim.org/).
 
+### Language
+
 - Avoid directional instructions and visual language.
    - Readers may not be able to see the layout of a page or the UI, and it is unhelpful to people using screenreaders or an unexpected layout (mobile vs. desktop). Instead of "above", "left", "right", etc, use "earlier", "later", or "following".
    - Avoid referring to UI elements by color, shapes and patterns. Use the element's label whenever possible.
 - Spell out acronyms and symbols.
-   - Avoid unnecessary abbreviations or acronyms. Spell out words like "and", "plus", "minus", and "about" instead of using their respective symbols.
-- Keep it brief and clear.
-   - Use shorter words when possible. For example: "more" instead of "additional"; "show" instead of "display"; "buy" instead of "purchase"
-   - Refer to [fewer words](../style/fewer-words.md)
+   - Spell out words like "and", "plus", "minus", and "about" instead of using their respective symbols.
+   - Be careful of assuming an acronym is common. Define the acronym or link to the definition first before using it in your document.
+- Be brief and clear.
+   - Use shorter words when possible. For example: "more" instead of "additional"; "show" instead of "display"; "buy" instead of "purchase".
+   - Refer to [fewer words](../style/fewer-words.md).
+- Links should be descriptive. 
+   - Avoid "click here" and "learn more" when possible. Links should make sense when read out of context.
+   - Use an external link icon to indicate that the link opens in a new window or tab. This can be done by adding `target="_blank"` to your link tag.
+   - If the link is for a download, the text should indicate that action in addition to the file type and title. For example: "download the PDF of our style guide"
+- Use sensitive language.
+   - If possible, instead of “see” or “view”, use “go to” or “open”. 
+   - A lot of research has been done on this topic, and it's important to [listen to the community](https://veroniiiica.com/2017/07/28/my-view-on-see/). This is not necessarily a high-priority change.
+
+### Content structure
+
 - Writing should be scannable.
    - Avoid long paragraphs.
-- Key information should go first. Front-load with desired actions.
+- Key information should go first. Front-load content with desired actions.
    - Use bullet points.
    - Use headings to create logical structure.
    - Use nested and consecutive headings.
@@ -27,13 +40,6 @@ and use the [WAVE testing tool](http://wave.webaim.org/).
    - Don't have empty headings or headings with no associated content.
 - Lead into new page elements.
    - Create expectations for the user. Page elements include tables, lists, images, videos, searches, commands, and code blocks. Always introduce a new page element using a lead-in sentence that explains what information the element contains or what the user needs to do.
-- Links should be descriptive. 
-   - Avoid "click here" and "learn more" when possible. Links should make sense when read out of context.
-   - Use an external link icon to indicate that the link opens in a new window or tab. This can be done by adding `target="_blank"` to your link tag.
-   - If the link is for a download, the text should indicate that action in addition to the file type and title. For example: "download the PDF of our style guide"
-- Use sensitive language.
-   - If possible, instead of “see” or “view”, use “go to” or “open”. 
-   - A lot of research has been done on this topic, and it's important to [listen to the community](https://veroniiiica.com/2017/07/28/my-view-on-see/#:~:text=There%20is%20nothing%20wrong%20with,impairment%20use%20those%20terms%20themselves). This is not a high-priority change.
 - Avoid unnecessary font formatting.
    - Don’t force line breaks (hard returns) within sentences and paragraphs. Line breaks might not work well in resized windows or with enlarged text.
 
@@ -107,10 +113,22 @@ and use the [WAVE testing tool](http://wave.webaim.org/).
    - Use the singular "they" pronoun unless referring to a person who identifies as a specific gender.
 - Avoid disability bias and ableist language.
    - Don't describe people without disabilities as "normal" or "healthy". This contributes to othering and alienation of people with disabilities by implying they are abnormal or sick. Instead, use terms such as: nondisabled person, sighted person, hearing person, person without disabilities, neurotypical person.
-- Use race-neutral language. 
-   - Do not use "whitelist" and "blacklist", which legitimizes and perpetuates racism. Instead of "blacklisted," use "blocked" or "blocklist" (in reference to adding an item to a list). Instead of "whitelisted," use "allowed" or "allowlist" (in reference to adding an item to a list).
-   - Do not use "master"/"slave". Instead, use alternative terms appropriate to your domain. For example, "primary"/"secondary" or "parent"/"child"
-   - Avoid "native" when possible. Use a more precise term. For example, use "built-in" to describe a feature that's part of a product. Instead of referring to people as "native speakers" or "non-native speakers" of English, consider whether or not your document needs to discuss this at all, and revise in order to discuss the feature in terms that are relevant to anyone regardless of what languages they know.
+
+### Write anti-racist documentation
+
+Language which is reflective of power dynamics and with racist history should not be used.
+
+- Do not use "whitelist" and "blacklist". These terms legitimize and perpetuates racism.
+   - Instead of "blacklisted," use "blocked" or "blocklist" (in reference to adding an item to a list).
+   - Instead of "whitelisted," use "allowed" or "allowlist" (in reference to adding an item to a list).
+- Do not use "master"/"slave". These terms legitimize and perpetuates racism.
+   - Use alternative terms appropriate to your domain. For example, "primary"/"secondary" or "parent"/"child".
+
+Some language is not specific to power dynamics, but still should be avoided in respect to those communities.
+
+- Avoid "native" when possible. Use a more precise term.
+   - For example, use "built-in" to describe a feature that's part of a product.
+   - Instead of referring to people as "native speakers" or "non-native speakers" of English, consider whether or not your document needs to discuss this at all, and revise in order to discuss the feature in terms that are relevant to anyone regardless of what languages they know.
    
 ### Write for international audiences
 
@@ -131,7 +149,6 @@ and use the [WAVE testing tool](http://wave.webaim.org/).
 
 ## Additional best practices
 
-- **Talk to the impacted community**. There is no conclusive list of language to avoid in all circumstances.
+- **Talk to the impacted community**. There is no conclusive list of words to use or avoid for all circumstances.
 - Write [semantic HTML](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML) and make sure your website is built semantically.
 - When in doubt, refer to [W3C's Web Accessibility Initiative](https://www.w3.org/WAI/).
-
