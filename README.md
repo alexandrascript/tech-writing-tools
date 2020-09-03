@@ -38,8 +38,6 @@ You can find more of her work on [heyawhite.com](https://heyawhite.com) or follo
 
 Special thanks to [@scottydocs](https://github.com/scottydocs), who heavily influenced the [README template](/templates/project.md), and [@nayafia](https://github.com/nayafia) and [@embeddedartistry](https://github.com/embeddedartistry/templates), who influenced the [CONTRIBUTION template](/templates/contributing.md).
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A244AFZ)
-
 ## License
 
 This project uses the [Creative Commons Attribution Share Alike 4.0 International license](LICENSE.md).
