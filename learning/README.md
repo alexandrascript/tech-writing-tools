@@ -16,7 +16,7 @@ collection of articles/books/other materials I've found useful.
 ## Classes + Activities
 
 + [Technical writing classes from Google](https://developers.google.com/tech-writing)
-+ [Season of Docs](https://developers.google.com/season-of-docs)
++ [Season of Docs](https://developers.google.com/season-of-docs) - bringing together Open Source communities and technical writers.
 
 ## Conferences and groups
 
