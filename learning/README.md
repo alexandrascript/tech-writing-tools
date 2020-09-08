@@ -13,6 +13,11 @@ collection of articles/books/other materials I've found useful.
 
 + [The Handbook of Technical Writing](https://www.amazon.com/Handbook-Technical-Writing-Gerald-Alred/dp/1457675528/) by Gerald J. Alred
 
+## Classes + Activities
+
++ [Technical writing classes from Google](https://developers.google.com/tech-writing)
++ [Season of Docs](https://developers.google.com/season-of-docs)
+
 ## Conferences and groups
 
 + [Write The Docs](http://www.writethedocs.org/)
