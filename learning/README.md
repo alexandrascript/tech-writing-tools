@@ -11,7 +11,11 @@ collection of articles/books/other materials I've found useful.
 
 ## Books
 
-+ [The Handbook of Technical Writing](https://www.amazon.com/Handbook-Technical-Writing-Gerald-Alred/dp/1457675528/) by Gerald J. Alred
+Use [bookshop.org](https://bookshop.org/) to support your local bookstore.
+
++ [Technical Writing Process: The Simple, Five-Step Guide That Anyone Can Use](https://bookshop.org/books/technical-writing-process-the-simple-five-step-guide-that-anyone-can-use-to-create-technical-documents-such-as-user-guides-manuals-and-proced/9780994169310) by Kieran Morgan
++ [The Elements of Technical Writing](https://bookshop.org/books/the-elements-of-technical-writing-9780205583812/9780205583812) by Thomas Pearsall 
++ [Technical Writer's Handbook](https://www.thriftbooks.com/w/technical-writers-handbook-writing-with-style-and-clarity_matt-young/511302/#edition=1574440&idiq=8433454) by Matt Young
 
 ## Classes + Activities
 
