@@ -11,6 +11,9 @@ and use the [WAVE testing tool](http://wave.webaim.org/).
 
 ### Language
 
+- Avoid "enable" and "disable" in technical documentation, as related to toggles or service activation
+   - Use "turn on" or "start" for enable and "turn off" or "stop" instead of disable
+   - For the word "disabled" as related to people, [disabled is not a bad word](https://themighty.com/2019/07/ok-to-say-disabled/). That said, don’t assume how someone wants to be labeled. Wait for people to tell you how they identify and what language they prefer.
 - Avoid directional instructions and visual language.
    - Readers may not be able to see the layout of a page or the UI, and it is unhelpful to people using screenreaders or an unexpected layout (mobile vs. desktop). Instead of "above", "left", "right", etc, use "earlier", "later", or "following".
    - Avoid referring to UI elements by color, shapes and patterns. Use the element's label whenever possible.
