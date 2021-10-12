@@ -29,14 +29,17 @@ You are welcome to make a pull request and add tools that you've found helpful!
 
 ## About the author
 
-Alexandra White is a technical writer for [Google Ad Manager](https://support.google.com/admanager#topic=7505988).
-Previously, she worked as a documentation editor for Joyent, web developer for WNET, and digital marketer for JCC
-Association. She has a degree in professional writing from Michigan State University.
+Alexandra White is a technical writer for Google. Previously, she worked as a documentation editor for Joyent,
+web developer for WNET, and digital marketer for JCC Association. She has a degree in professional writing
+from Michigan State University.
 
 You can find more of her work on [heyawhite.com](https://heyawhite.com) or follow her on Twitter
 [@heyawhite](https://twitter.com/heyawhite).
 
-Special thanks to [@scottydocs](https://github.com/scottydocs), who heavily influenced the [README template](/templates/project.md), and [@nayafia](https://github.com/nayafia) and [@embeddedartistry](https://github.com/embeddedartistry/templates), who influenced the [CONTRIBUTION template](/templates/contributing.md).
+Special thanks to [@scottydocs](https://github.com/scottydocs), who heavily influenced the
+[README template](/templates/project.md), and [@nayafia](https://github.com/nayafia) and
+[@embeddedartistry](https://github.com/embeddedartistry/templates), who influenced the
+[CONTRIBUTION template](/templates/contributing.md).
 
 ## License
 
