@@ -11,9 +11,10 @@ and use the [WAVE testing tool](http://wave.webaim.org/).
 
 ### Language
 
-- Avoid "enable" and "disable" in technical documentation, as related to toggles or service activation
-   - Use "turn on" or "start" for enable and "turn off" or "stop" instead of disable
-   - For the word "disabled" as related to people, [disabled is not a bad word](https://themighty.com/2019/07/ok-to-say-disabled/). That said, don’t assume how someone wants to be labeled. Wait for people to tell you how they identify and what language they prefer.
+- Avoid "enable" and "disable" in technical documentation, as related to toggles or service activation.
+   - Use "turn on / start / allow" for enable and "turn off / stop / deny" instead of disable.
+   - For the word "disabled" as related to people, [disabled is not a bad word](https://themighty.com/2019/07/ok-to-say-disabled/).
+     That said, don’t assume how someone wants to be labeled. Wait for people to tell you how they identify and what language they prefer.
 - Avoid directional instructions and visual language.
    - Readers may not be able to see the layout of a page or the UI, and it is unhelpful to people using screenreaders or an unexpected layout (mobile vs. desktop). Instead of "above", "left", "right", etc, use "earlier", "later", or "following".
    - Avoid referring to UI elements by color, shapes and patterns. Use the element's label whenever possible.
@@ -92,7 +93,8 @@ and use the [WAVE testing tool](http://wave.webaim.org/).
 ### Video
 
 - All videos should have captions.
-   - If using [YouTube's auto-caption tool](https://support.google.com/youtube/answer/6373554?hl=en), edit the caption to include punctuation and correct any language that was misheard.
+   - If using [YouTube's auto-caption tool](https://support.google.com/youtube/answer/6373554?hl=en), edit the caption to
+     include punctuation and correct any language that was misheard.
    - Include all text and necessary sound effects.
 
 ## Touch
@@ -104,18 +106,18 @@ and use the [WAVE testing tool](http://wave.webaim.org/).
 
 ### Write inclusive documentation
 
-- Avoid "simple" and "simply".
-   - What might be simple for you might not be simple for others.
-- Avoid bias and harm when discussing disability and accessibility.
 - Use diverse and inclusive examples.
    - Use diverse names, genders, ages, and locations in examples. 
-- Avoid vague and confusing references between a pronoun and its antecedent.
-   - Not recommended: _If you type text in the field, it doesn't change._
-   - Recommended: _If you type text in the field, the text doesn't change._
+- Avoid "simple" and "simply".
+   - What might be simple for you might not be simple for others. For more on this topic,
+     [watch "Don't say simply"](https://www.writethedocs.org/videos/prague/2018/don-t-say-simply-jim-fisher/)
 - Use gender neutral pronouns.
    - Use the singular "they" pronoun unless referring to a person who identifies as a specific gender.
 - Avoid disability bias and ableist language.
-   - Don't describe people without disabilities as "normal" or "healthy". This contributes to othering and alienation of people with disabilities by implying they are abnormal or sick. Instead, use terms such as: nondisabled person, sighted person, hearing person, person without disabilities, neurotypical person.
+   - Don't describe people without disabilities as "normal" or "healthy". This contributes to othering
+     and alienation of people with disabilities by implying they are abnormal or sick. Instead, use terms
+     such as: nondisabled person, sighted person, hearing person, person without disabilities, neurotypical
+     person.
 
 ### Write anti-racist documentation
 
@@ -131,18 +133,21 @@ Some language is not specific to power dynamics, but still should be avoided in 
 
 - Avoid "native" when possible. Use a more precise term.
    - For example, use "built-in" to describe a feature that's part of a product.
-   - Instead of referring to people as "native speakers" or "non-native speakers" of English, consider whether or not your document needs to discuss this at all, and revise in order to discuss the feature in terms that are relevant to anyone regardless of what languages they know.
+   - Instead of referring to people as "native speakers" or "non-native speakers" of English, consider whether
+     or not your document needs to discuss this at all, and revise in order to discuss the feature in terms that
+     are relevant to anyone regardless of what languages they know.
    
 ### Write for international audiences
 
+- Avoid vague and confusing references between a pronoun and its antecedent.
+   - Not recommended: _If you type text in the field, it doesn't change._
+   - Recommended: _If you type text in the field, the text doesn't change._
 - Use the subject-verb-object sentence structure.
    - While this structure is not used by all languages, it’s widely recognized.
 - Avoid ambiguity.
-   - Some words and parts of speech may be left out when thinking of American, English-speaking audiences, which will frustrate translation teams. For example:
-   - Avoid unclear pronouns.
-   - Avoid gerunds.
-   - Avoid portmanteaus.
-   - Be positive.
+   - Some words and parts of speech may be left out when thinking of American, English-speaking audiences, which
+     will frustrate translation teams. For example: unclear pronouns, gerunds, and portmaneaus.
+   - Write positive and active language.
 - Avoid jargon.
    - Sparate ideas into different sentences/paragraphs/sections, as necessary.
    - Avoid slang and metaphors.
