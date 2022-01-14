@@ -16,19 +16,28 @@ Here are a list of resources on the topic of accessibility. Some are directly re
 communication, others more loosely connected about web development and design.
 
 ### Writing and content
+
 - [MailChimp's guide on writing for accessibility](https://styleguide.mailchimp.com/writing-for-accessibility/)
-- ["A11y friendly documentation"](https://github.com/carolstran/tech-talks/blob/master/abstracts/a11y-friendly-docs.md), a talk by Carolyn Stransky ([video from Write The Docs](https://youtu.be/SLUJG625Si0))
-- ["Don't say simply"](https://www.writethedocs.org/videos/prague/2018/don-t-say-simply-jim-fisher/), a talk by Jim Fisher ([video from Write The Docs](https://youtu.be/gsT2BBWBVmM))
 - [A11y style guide](https://a11y-style-guide.com/style-guide/) for developers, designers, and writing
+- Google developer documentation style guide:
+  [accessibility](https://developers.google.com/style/accessibility) and
+  [inclusive language](https://developers.google.com/style/inclusive-documentation)
+
+### Talks
+- ["A11y friendly documentation"](https://github.com/carolstran/tech-talks/blob/master/abstracts/a11y-friendly-docs.md),
+  a talk by Carolyn Stransky ([video from Write The Docs](https://youtu.be/SLUJG625Si0))
+- ["Don't say simply"](https://www.writethedocs.org/videos/prague/2018/don-t-say-simply-jim-fisher/),
+  a talk by Jim Fisher ([video from Write The Docs](https://youtu.be/gsT2BBWBVmM))
+- ["Leveraging Accessibility and Usability to Serve Truly Diverse Audiences"](https://a11ytalks.com/posts/2020-OCT),
+  a talk by Tearyne Almendariz and Kat Shaw ([slide deck](https://docs.google.com/presentation/d/112kJTTyvv4P-AVFW8-3djoA6dwc_LfCv6iaZ9xeWTD0/edit))
 
 ### Develop and design
 
-- [Google developer style guide](https://developers.google.com/web/fundamentals/accessibility)
 - [ARIA guidelines](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 - [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) by bits ofcode
 - [GSA Government IT Accessibility program](https://www.section508.gov/about-us) (i.e. Section 508)
-- [Microsoft inclusive design toolkit](https://www.microsoft.com/design/inclusive/)
-- [Smashing Magazine's guide to designing accessibly](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/)
+- Microsoft [inclusive design toolkit](https://www.microsoft.com/design/inclusive/)
+- Smashing Magazine's [guide to designing accessibly](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/)
 
 ## Events
 
@@ -36,4 +45,5 @@ communication, others more loosely connected about web development and design.
 
 - [ASSETS](https://assets19.sigaccess.org/)
 - [#a11yTO Conf](https://conf.a11yto.com/)
+- [A11yTalks](https://a11ytalks.com/)
 - [Guelph Accessibility Conference](https://opened.uoguelph.ca/accessibility-conference)
