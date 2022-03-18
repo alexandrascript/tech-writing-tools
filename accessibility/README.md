@@ -24,6 +24,7 @@ Writing inclusive language in our docs starts with realizing the ways in which w
 internalized ableism in our everyday lives.
 
 ### 2. Write clear instructions 
+
 Clear instructions are the most critical element of a technical writer's job. We recommend you
 write short, complete sentences; use precise language; use exact measurements; and use nouns
 instead of pronouns. Additionally, we recommend that you break up longer tasks into smaller
@@ -53,7 +54,7 @@ From W3C:
 
 *  Read the [semantic HTML guide](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
-### 5. Create eaningful link and alt text
+### 5. Create meaningful link and alt text
 
 Provide unique, consistent, and relevant labels for link text to allow people who use screen readers
 (and those who don't) to take action. 
@@ -61,6 +62,9 @@ Provide unique, consistent, and relevant labels for link text to allow people wh
 Alt text ensures all users, regardless of visual ability, can appreciate the image content on your
 site. Alt text should be contextual, concise, and spared from too many keywords. If the image is
 purely decorative, consider including no alt text to keep from distracting a user with a screen reader.
+
+Want to know how folks experience your content? Test it! [Review W3C's recommended accessbiliity
+tools](https://www.w3.org/WAI/people-use-web/tools-techniques/).
 
 ### 6. Be clear and concise
 
@@ -86,7 +90,7 @@ communication, others more loosely connected about web development and design.
 - ["Don't say simply"](https://www.writethedocs.org/videos/prague/2018/don-t-say-simply-jim-fisher/),
   a talk by Jim Fisher ([video from Write The Docs](https://youtu.be/gsT2BBWBVmM))
 - ["Leveraging Accessibility and Usability to Serve Truly Diverse Audiences"](https://a11ytalks.com/posts/2020-OCT),
-  a talk by Tearyne Almendariz and Kat Shaw ([slide deck](https://docs.google.com/presentation/d/112kJTTyvv4P-AVFW8-3djoA6dwc_LfCv6iaZ9xeWTD0/edit))
+  a talk by Tearyne Almendariz and Kat Shaw ([slide deck](https://docs.google.com/presentation/d/112kJTTyvv4P-AVFW8-3djoA6dwc_LfCv6iaZ9xeWTD0/))
 
 ### Develop and design
 
