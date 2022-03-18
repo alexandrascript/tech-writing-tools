@@ -100,6 +100,12 @@ communication, others more loosely connected about web development and design.
 - Microsoft [inclusive design toolkit](https://www.microsoft.com/design/inclusive/)
 - Smashing Magazine's [guide to designing accessibly](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/)
 
+### Test
+
+Always test your work. You can't help your users if you have no understandng of accessibility tools.
+
+- [Tools and Techniques from W3C](https://www.w3.org/WAI/people-use-web/tools-techniques/)
+
 ## Events
 
 ### Conferences
