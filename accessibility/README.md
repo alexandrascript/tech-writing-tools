@@ -84,6 +84,10 @@ communication, others more loosely connected about web development and design.
   [accessibility](https://developers.google.com/style/accessibility) and
   [inclusive language](https://developers.google.com/style/inclusive-documentation)
 
+While not primarily about content, the [Learn Accessibility](https://web.dev/learn/accessibility/)
+offers useful commentary on business and legal impact, which can be used to
+argue for [funding accessibility](https://pleasefunda11y.com/).
+
 ### Talks
 - ["A11y friendly documentation"](https://github.com/carolstran/tech-talks/blob/master/abstracts/a11y-friendly-docs.md),
   a talk by Carolyn Stransky ([video from Write The Docs](https://youtu.be/SLUJG625Si0))
