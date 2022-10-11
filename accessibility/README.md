@@ -89,6 +89,7 @@ offers useful commentary on business and legal impact, which can be used to
 argue for [funding accessibility](https://pleasefunda11y.com/).
 
 ### Talks
+- ["Move beyond empathy: a11y in documentation](https://www.writethedocs.org/videos/portland/2020/moving-beyond-empathy-a11y-in-documentation-alexandra-white/), a talk by me, with video.
 - ["A11y friendly documentation"](https://github.com/carolstran/tech-talks/blob/master/abstracts/a11y-friendly-docs.md),
   a talk by Carolyn Stransky ([video from Write The Docs](https://youtu.be/SLUJG625Si0))
 - ["Don't say simply"](https://www.writethedocs.org/videos/prague/2018/don-t-say-simply-jim-fisher/),
