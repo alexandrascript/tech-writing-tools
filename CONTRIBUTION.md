@@ -1,6 +1,6 @@
 # Contributing to Tech Writing Tools
 
-Thanks for considering contributing to the tech writing tools reporsitory. While I've been collecting these resources for a number of talks in 2019, this can become so much better when influenced by other writers.
+Thanks for considering contributing to the tech writing tools repository. While I've been collecting these resources for a number of talks in 2019, this can become so much better when influenced by other writers.
 
 ### Why should you follow these guidelines?
 
