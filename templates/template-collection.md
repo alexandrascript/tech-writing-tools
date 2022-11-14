@@ -3,8 +3,7 @@
 **Author**: Your name
 **Maintainers**: Add names
 
-
-## Page types
+## Documentation page types
 
 The format of content we write depends on the audience and the specific information
 that will be shared. This is not an exhaustive list. If you have a publication need
@@ -37,3 +36,12 @@ Be brief, embed videos when possible, and link to other resources.
 | URL structure | `example.com/product/get-started/` |
 | Audience | These should be appropriate for developers of all levels. |
 
+  
+## Blog posts
+
+Timely announcements of new features, changes to existing materials, origin trial updates,
+and more. These should be brief and link back to other documentation.
+
+| Resource  |  Example |
+| -- | -- |
+| URL structure | `example.com/blog/short-name/` |
