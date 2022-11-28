@@ -23,6 +23,10 @@ offensive.
 Writing inclusive language in our docs starts with realizing the ways in which we've
 internalized ableism in our everyday lives.
 
+- Read [guidelines for writing about people with disabilities](https://adata.org/factsheet/ADANN-writing)
+- Avoid [euphamisms](https://aeon.co/essays/euphemisms-are-like-underwear-best-changed-frequently)
+- Use precise language. Read a [DEI glossary](https://docs.google.com/spreadsheets/u/1/d/163OyYVe276mhbzsiJ_Ik-yGH_bd2ofgiWEAhwXYoiVA/preview#gid=0)
+
 ### 2. Write clear instructions 
 
 Clear instructions are the most critical element of a technical writer's job. We recommend you
