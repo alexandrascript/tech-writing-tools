@@ -54,9 +54,8 @@ Heading language should be scannable and understood without context. Additionall
 use semantic HTML, which means the HTML tags you choose correctly align with the value of the content
 between the tags.
 
-From W3C:
-
-*  Read the [semantic HTML guide](https://www.w3schools.com/html/html5_semantic_elements.asp)
+*  Read the [W3C's semantic HTML guide](https://www.w3schools.com/html/html5_semantic_elements.asp)
+*  Take the [Learn Accessibility content structure module](https://web.dev/learn/accessibility/structure/)
 
 ### 5. Create meaningful link and alt text
 
@@ -103,6 +102,7 @@ argue for [funding accessibility](https://pleasefunda11y.com/).
 
 ### Develop and design
 
+- [Learn Accessibility from web.dev](https://web.dev/learn/accessibility/structure/)
 - [ARIA guidelines](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 - [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) by bits ofcode
 - [GSA Government IT Accessibility program](https://www.section508.gov/about-us) (i.e. Section 508)
