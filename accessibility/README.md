@@ -5,7 +5,7 @@ includes users of all mental and physical capabilities. We must always consider 
 accessibility and inclusion when editing and creating content, from the words we choose to
 the way our content is organized.
 
-I've written an [accessibility style guide](style.md) which outlines some best practcies.
+I've written an [accessibility style guide](style.md) which outlines some best practices.
 Feel free to copy this document in whole and add it to your company style guide.
 
 I've also included [accessibility in my speaking policy](https://heyawhite.com/speaking/#a11y).
