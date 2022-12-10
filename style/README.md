@@ -6,6 +6,7 @@ It is essential to use a style guide and content strategy when you create any te
 + [Microsoft writing style guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
 + [Atlassian writing style](https://atlassian.design/guidelines/brand/writing-style-1)
 + [GOV.UK content design](https://www.gov.uk/guidance/content-design)
++ [Plain Language style guide](https://www.plainlanguage.gov/)
 + [The Economist style guide](https://cdn.static-economist.com/sites/default/files/store/Style_Guide_2015.pdf)
 + Google guides
    + [Material design writing](https://material.io/design/communication/writing.html?fbclid=IwAR18sxVvU9Yoq87kgnUCz8yJLxjNTH4KFcnur_QvyBFUcSJK5OhcURIfTl4)
