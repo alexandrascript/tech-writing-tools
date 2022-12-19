@@ -4,7 +4,7 @@
 + [Sublime Text](https://www.sublimetext.com/)
 + [Notepad++](https://notepad-plus-plus.org/)
 + [TextMate](https://macromates.com/)
-+ [Atom](https://atom.io/) (Repository will be archived on December 15, 2022)
++ [Atom](https://atom.io/) (The source repository is archived on GitHub)
 + [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Paid desktop applications
