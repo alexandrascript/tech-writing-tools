@@ -9,6 +9,10 @@ collection of articles/books/other materials I've found useful.
 + [FFeathers](https://ffeathers.wordpress.com/) by Sarah Maddox
 + [Cherryleaf](https://www.cherryleaf.com/)
 
+## Newsletters
+
+* [Everything Technical Writing](https://everythingtechnicalwriting.substack.com/)
+
 ## Books
 
 Use [bookshop.org](https://bookshop.org/) to support your local bookstore.
