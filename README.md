@@ -29,9 +29,9 @@ You are welcome to make a pull request and add tools that you've found helpful!
 
 ## About the author
 
-Alexandra White is a technical writer for Google. You can find more of her work on
-[heyawhite.com](https://heyawhite.com) or follow her on Twitter
-[@heyawhite](https://twitter.com/heyawhite).
+Alexandra Klepper is a technical writer for Google. You can find more of her work on
+[alexandrascript.com](https://alexandrascript.com) or
+[follow her on BlueSky](https://bsky.app/profile/alexandrascript.com).
 
 Special thanks to [@scottydocs](https://github.com/scottydocs), who heavily influenced the
 [README template](/templates/project.md), and [@nayafia](https://github.com/nayafia) and
