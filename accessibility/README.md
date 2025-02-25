@@ -81,25 +81,27 @@ communication, others more loosely connected about web development and design.
 
 ### Writing and content
 
-- [MailChimp's guide on writing for accessibility](https://styleguide.mailchimp.com/writing-for-accessibility/)
-- [A11y style guide](https://a11y-style-guide.com/style-guide/) for developers, designers, and writing
+- [A11y Project content style guide](https://www.a11yproject.com/content-style-guide/)
+- - [A11y style guide](https://a11y-style-guide.com/style-guide/) for developers, designers, and writing
 - Google developer documentation style guide:
   [accessibility](https://developers.google.com/style/accessibility) and
   [inclusive language](https://developers.google.com/style/inclusive-documentation)
+- [MailChimp's guide on writing for accessibility](https://styleguide.mailchimp.com/writing-for-accessibility/)
 
 While not primarily about content, the [Learn Accessibility](https://web.dev/learn/accessibility/)
 offers useful commentary on business and legal impact, which can be used to
 argue for [funding accessibility](https://pleasefunda11y.com/).
 
 ### Talks
+
 - ["Clicks Without Limits: Content Design for Everyone, Everywhere"](https://youtu.be/af1zgx1RXHs?feature=shared), a talk by Eric Zrinsky
-- ["Move beyond empathy: a11y in documentation](https://www.writethedocs.org/videos/portland/2020/moving-beyond-empathy-a11y-in-documentation-alexandra-white/), a talk by me, with video.
 - ["A11y friendly documentation"](https://github.com/carolstran/tech-talks/blob/master/abstracts/a11y-friendly-docs.md),
   a talk by Carolyn Stransky ([video from Write The Docs](https://youtu.be/SLUJG625Si0))
 - ["Don't say simply"](https://www.writethedocs.org/videos/prague/2018/don-t-say-simply-jim-fisher/),
   a talk by Jim Fisher ([video from Write The Docs](https://youtu.be/gsT2BBWBVmM))
 - ["Leveraging Accessibility and Usability to Serve Truly Diverse Audiences"](https://a11ytalks.com/posts/2020-OCT),
   a talk by Tearyne Almendariz and Kat Shaw ([slide deck](https://docs.google.com/presentation/d/112kJTTyvv4P-AVFW8-3djoA6dwc_LfCv6iaZ9xeWTD0/))
+- ["Move beyond empathy: a11y in documentation](https://www.writethedocs.org/videos/portland/2020/moving-beyond-empathy-a11y-in-documentation-alexandra-white/), a talk by me, with video.
 
 ### Develop and design
 
@@ -115,11 +117,17 @@ argue for [funding accessibility](https://pleasefunda11y.com/).
 Always test your work. You can't help your users if you have no understandng of accessibility tools.
 
 - [Tools and Techniques from W3C](https://www.w3.org/WAI/people-use-web/tools-techniques/)
-- Learn Accessibility: [Automated testing](https://web.dev/learn/accessibility/test-automated), [manual testing](https://web.dev/learn/accessibility/test-manual), and [AT testing](https://web.dev/learn/accessibility/test-assistive-technology).
+- Learn Accessibility: [Automated testing](https://web.dev/learn/accessibility/test-automated),
+  [manual testing](https://web.dev/learn/accessibility/test-manual),
+  and [AT testing](https://web.dev/learn/accessibility/test-assistive-technology).
+
+One caveat: If you're not a regular user of assistive technology, your experience will be different
+from those who use it. Whenever possible, speak with AT users to better understand their experience
+and solve for their problems.
 
 ## Events
 
-### Conferences
+There are a number of accessibility focused conferences:
 
 - [Axe-con](https://www.deque.com/axe-con/)
 - [ASSETS](https://assets19.sigaccess.org/)
