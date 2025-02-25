@@ -92,6 +92,7 @@ offers useful commentary on business and legal impact, which can be used to
 argue for [funding accessibility](https://pleasefunda11y.com/).
 
 ### Talks
+- ["Clicks Without Limits: Content Design for Everyone, Everywhere"](https://youtu.be/af1zgx1RXHs?feature=shared), a talk by Eric Zrinsky
 - ["Move beyond empathy: a11y in documentation](https://www.writethedocs.org/videos/portland/2020/moving-beyond-empathy-a11y-in-documentation-alexandra-white/), a talk by me, with video.
 - ["A11y friendly documentation"](https://github.com/carolstran/tech-talks/blob/master/abstracts/a11y-friendly-docs.md),
   a talk by Carolyn Stransky ([video from Write The Docs](https://youtu.be/SLUJG625Si0))
@@ -114,11 +115,13 @@ argue for [funding accessibility](https://pleasefunda11y.com/).
 Always test your work. You can't help your users if you have no understandng of accessibility tools.
 
 - [Tools and Techniques from W3C](https://www.w3.org/WAI/people-use-web/tools-techniques/)
+- Learn Accessibility: [Automated testing](https://web.dev/learn/accessibility/test-automated), [manual testing](https://web.dev/learn/accessibility/test-manual), and [AT testing](https://web.dev/learn/accessibility/test-assistive-technology).
 
 ## Events
 
 ### Conferences
 
+- [Axe-con](https://www.deque.com/axe-con/)
 - [ASSETS](https://assets19.sigaccess.org/)
 - [#a11yTO Conf](https://conf.a11yto.com/)
 - [A11yTalks](https://a11ytalks.com/)
