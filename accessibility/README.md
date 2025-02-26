@@ -94,6 +94,7 @@ argue for [funding accessibility](https://pleasefunda11y.com/).
 
 ### Talks
 
+- ["Write Accessible Documentation"](https://www.deque.com/axe-con/sessions/write-accessible-documentation/), a talk by me at Axe-Con ([slides](https://docs.google.com/presentation/d/e/2PACX-1vSGUnYhrOAVdw-WP_npCFNrXKWRDH6XLyVIn6Q_gPXbrBO4T7P6-L942JxQTSl9lkLibq6PFxOHYYlU/pub?start=false&loop=false&delayms=3000))
 - ["Clicks Without Limits: Content Design for Everyone, Everywhere"](https://youtu.be/af1zgx1RXHs?feature=shared), a talk by Eric Zrinsky
 - ["A11y friendly documentation"](https://github.com/carolstran/tech-talks/blob/master/abstracts/a11y-friendly-docs.md),
   a talk by Carolyn Stransky ([video from Write The Docs](https://youtu.be/SLUJG625Si0))
