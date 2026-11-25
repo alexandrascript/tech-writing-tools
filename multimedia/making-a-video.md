@@ -25,6 +25,13 @@ Before deciding to make a video, make sure you've gone through the checklist of 
    1. Add/edit captions
    1. Regional localization
 
+## Reviewing a screen recording with a presenter inset
+
++ Keep the screen and camera recordings as separate files so you can move the presenter during the edit.
++ For each step, check the menu label, pointer action, and screen that opens. Play the exported video at the size your readers will see it.
++ When a presenter inset obscures a control, move it only for that step. Replay the edited range and the adjacent scenes to check that the narration and other layouts still match the approved version.
++ [Two downloadable tutorial layout examples](https://valmera.io/blog/edit-screen-recording-into-product-tutorial#screen-and-presenter-layout) from Valmera Editorial show the same click before and after a short inset move. The page includes both source files and the exact revision times.
+
 ## Livestreaming and green screen production
 If you're livestreaming or using a green screen, consider the following.
 
